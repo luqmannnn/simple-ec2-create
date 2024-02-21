@@ -1,5 +1,5 @@
 env = "dev"
-key_name = "luqman-useast1-keypair"
+key_name = "luqman-us-east-1-keypair"
 vpc_id = "vpc-02c3cea2893bac90f"
 sg_name = "luqman-allow-http-https-ssh-traffic-ex"
 ami_id = "ami-0e731c8a588258d0d"
